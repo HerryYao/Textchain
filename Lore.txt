@@ -1,0 +1,6 @@
+[Void] is me
+
+in save txt lines;
+1. gamestep
+2. inventory
+3. 

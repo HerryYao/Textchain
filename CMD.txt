@@ -1,0 +1,16 @@
+Basics:
+Save-Game = Saves your current game session to 5 available slots (1, 2, 3, 4, 5)
+Load-Game = Load a game save from 5 available slots
+Exit-Game = Exit the game without any saves, will lose current game progress
+.. = Advance the game (move one step forward)
+INT.. = Interact with something here (a story trigger)	e
+Go-Back = Move one step back
+
+Inventory:
+See-Inv = Check your inventory	i
+Pick-Up = Add an item to the inventory
+Drop-Item = Remove an item from the inventory	q
+#EXP.. = Explore for things
+
+Commands:
+Say-Smt = Will let you say something randomly
